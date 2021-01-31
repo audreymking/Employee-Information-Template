@@ -6,13 +6,13 @@
 
 This application creates a unique webpage containing important information about team members in a software engineering company. When node is run, the user is prompted with questions about the employees. Depending on what type of employee the user selects, the application will ask questions pertaining to their job. This way, the manager in the company can easily see important information on all team members in one place.
 
-
 ## Expectations for this application:
 
 When the code is run, the application will prompt the user for information about the team. The options for employees are:
-* Manager
-* Engineer
-* Intern
+
+- Manager
+- Engineer
+- Intern
 
 Once the user has finished adding team members, the application will compile all of the team member information into a formated HTML file.
 
@@ -27,15 +27,23 @@ To get started please run the following command:
 ```
 
 To install inquirer:
+
 ```
 `npm install inquirer`
 ```
 
 To run tests with jest:
+
 ```
 `npm run tests`
 ```
 
 ## Screenshots and Video
 
-Click on the link for a video for a full look on input and file presentation: [Example Video](https://drive.google.com/file/d/1jNWSS_3wAG0P2120az3BETe1iyeWcH2v/view)
+![TemplateExample](Employee Template Example.png)
+
+Click on the link for a video for a full look on how this application runs: [Example Video](https://drive.google.com/file/d/1jNWSS_3wAG0P2120az3BETe1iyeWcH2v/view)
+
+## Acknowledgements
+
+[Coolors](https://coolors.co/) was used to generate website a color scheme for the stylesheet.
