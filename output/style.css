@@ -1,0 +1,29 @@
+/*background color*/
+body {
+  background-color: #2f3e46;
+}
+
+/*font color for header*/
+h1 {
+  color: #354f52;
+}
+
+/*background color the cards*/
+.card {
+  background-color: #cad2c5;
+}
+
+/*color for the card titles*/
+.col-12 {
+  color: #52796f;
+}
+
+/*color for the jumbotron on the top around "My Team"*/
+.jumbotron {
+  background-color: #84a98c;
+}
+
+/*color for the table in the card*/
+.list-group-item {
+  background-color: #faf3dd;
+}
