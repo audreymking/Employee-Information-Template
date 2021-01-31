@@ -38,4 +38,4 @@ To run tests with jest:
 
 ## Screenshots and Video
 
-Click on the link for a video for a full look on input and file presentation: [Example Video] (https://drive.google.com/file/d/1jNWSS_3wAG0P2120az3BETe1iyeWcH2v/view)
+Click on the link for a video for a full look on input and file presentation: [Example Video](https://drive.google.com/file/d/1jNWSS_3wAG0P2120az3BETe1iyeWcH2v/view)
