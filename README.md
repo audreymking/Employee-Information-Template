@@ -40,10 +40,11 @@ To run tests with jest:
 
 ## Screenshots and Video
 
-![TemplateExample](Employee Template Example.png)
+Example of what a generated file may look like:
+<img width="1439" alt="Employee Template Example" src="https://user-images.githubusercontent.com/69822381/106376831-5b040d80-635e-11eb-992f-b10745d7563c.png">
 
 Click on the link for a video for a full look on how this application runs: [Example Video](https://drive.google.com/file/d/1jNWSS_3wAG0P2120az3BETe1iyeWcH2v/view)
 
 ## Acknowledgements
 
-[Coolors](https://coolors.co/) was used to generate website a color scheme for the stylesheet.
+[Coolors](https://coolors.co/) was used to generate a color scheme for the stylesheet.
